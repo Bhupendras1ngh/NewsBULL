@@ -1,0 +1,99 @@
+
+// c11fcf8d61614bb0b19ec6824540f423
+// c11fcf8d61614bb0b19ec6824540f423
+// 8b3f07da7b644fa7a5081eea23dc3e26
+
+"status": "ok",
+"totalResults": 12272,
+-"articles": [
+-{
+-"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Brad Templeton, Senior Contributor, \n Brad Templeton, Senior Contributor\n https://www.forbes.com/sites/bradtempleton/",
+"title": "EV Charging Costs From $0.15 Per Mile Down To Free; How Should They Price It?",
+"description": "The range of prices for EV charging is astonishing, because we think of energy as a product, like gasoline, but it's really a service.  What do people charge and what should they charge?",
+"url": "https://www.forbes.com/sites/bradtempleton/2022/05/25/ev-charging-costs-from-015-per-mile-down-to-free-how-should-they-price-it/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve//6255f8fd0be810ca59404a9c/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2022-05-25T12:15:00Z",
+"content": "Teslas charge at a Supercharger in California. Chargers there often bill 24 cents/kWh off peak but ... [+] 48 cents/kWh in the busiest times\r\nMediaNews Group via Getty Images\r\nIts not at all easy to … [+13511 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Gadgets360.com"
+},
+"author": "Reuters",
+"title": "Twitter to Hold Annual Shareholder Meeting Amid Elon Musk’s Uncertainty Over Acquisition",
+"description": "Twitter will face sceptical shareholders during its annual meeting. The meeting takes place on Wednesday despite doubt over the social media company’s acquisition by billionaire Elon Musk at the agreed-upon price.",
+"url": "https://gadgets360.com/social-networking/news/twitter-hold-annual-shareholder-meeting-amid-elon-musk-uncertainty-acquisition-3008480",
+"urlToImage": "https://i.gadgets360cdn.com/large/elon_musk_twitter_reuters_1650914321120.jpg",
+"publishedAt": "2022-05-25T12:06:56Z",
+"content": "Twitter will face skeptical shareholders on Wednesday during its annual meeting, as doubt remains over whether the social media company will complete its deal to be acquired by billionaire Elon Musk … [+1199 chars]"
+},
+-{
+-"source": {
+"id": "techcrunch",
+"name": "TechCrunch"
+},
+"author": "Rebecca Bellan",
+"title": "Finn raises $110M to expand car subscription platform in U.S., Germany",
+"description": "Car subscription platform Finn has raised $110 million in equity to expand in the U.S. and Europe and reach 30,000 subscriptions by the end of the year...",
+"url": "https://techcrunch.com/2022/05/25/finn-raises-110m-to-expand-car-subscription-platform-in-u-s-germany/",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/7nuOMFK544VT2z2Fiy72gQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/Soe.PTv2jiIlDB01X9vtow--~B/aD0xMzY1O3c9MjA0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/bc53cbbc6a73ba7d1d0c9775676cbdc6",
+"publishedAt": "2022-05-25T12:00:24Z",
+"content": "Car subscription platform Finn has raised $110 million in equity to expand in the U.S. and Europe and reach 30,000 subscriptions by the end of the year, according to the company.\r\nThe funding, which … [+3965 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Stephen Shankland",
+"title": "Apple's U1 chip and Android brings UWB location tech to your car or home",
+"description": "Ultra wideband can pinpoint your Apple AirTag or unlock your car as you walk up to it with your phone. Google and Samsung are big fans, too.",
+"url": "https://www.cnet.com/tech/mobile/apples-u1-chip-and-android-brings-uwb-location-tech-to-your-car-or-home/",
+"urlToImage": "https://www.cnet.com/a/img/resize/9a4cf6fa9d7d1f535bb57a1a117fa6f0ac5668cf/2019/09/13/c12c2a71-652b-4330-ba99-a95b51887fd2/uwb-apple-car-patent.jpg?auto=webp&fit=crop&height=630&width=1200",
+"publishedAt": "2022-05-25T12:00:06Z",
+"content": "You've heard of wireless standards like Wi-Fi, Bluetooth and 5G. Now it's time to learn about another: ultra wideband, or UWB.\r\nThe technology, which has begun arriving in phones, tracking tags and a… [+12611 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "PRNewswire"
+},
+"author": null,
+"title": "Latest Report from 1.7B Connected Devices Reveals a Surge in Connected Cars, Smartwatches, and Energy Management Devices",
+"description": "LOS ANGELES, May 25, 2022 /PRNewswire/ -- CUJO AI, a global leader in cybersecurity and network intelligence solutions for Internet Service Providers (ISPs), today released its annual Device Intelligence Report. The data, collected from April 2021 through Mar…",
+"url": "https://www.prnewswire.com/news-releases/latest-report-from-1-7b-connected-devices-reveals-a-surge-in-connected-cars-smartwatches-and-energy-management-devices-301553784.html",
+"urlToImage": "https://mma.prnewswire.com/media/692982/logo_black__1_Logo.jpg?p=facebook",
+"publishedAt": "2022-05-25T12:00:00Z",
+"content": "The report provides a detailed assessment of the connected device landscape in the United States and Canada.\r\nTweet this\r\n\"The device landscape is changing in tangible ways, as people use more and mo… [+5092 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "PR Newswire",
+"title": "Latest Report from 1.7B Connected Devices Reveals a Surge in Connected Cars, Smartwatches, and Energy Management Devices",
+"description": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for Internet Service Providers (ISPs), today released its annual Device...",
+"url": "https://finance.yahoo.com/news/latest-report-1-7b-connected-120000965.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/gEsGJ92Z0ef8cQSL7t_KDA--~B/aD0yOTE7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/a7115602eb57c2aa3ff8320e74cdd060",
+"publishedAt": "2022-05-25T12:00:00Z",
+"content": "LOS ANGELES, May 25, 2022 /PRNewswire/ -- CUJO AI, a global leader in cybersecurity and network intelligence solutions for Internet Service Providers (ISPs), today released its annual Device Intellig… [+5900 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "TweakTown"
+},
+"author": "Adam Hunt",
+"title": "This Elon Musk deepfake is scamming people out of their cryptocurrency",
+"description": "A new scam cryptocurrency trading platform has found a way to promote itself using deep fakes of Elon Musk's likeness and others. Continue reading at TweakTown >",
+"url": "https://www.tweaktown.com/news/86429/this-elon-musk-deepfake-is-scamming-people-out-of-their-cryptocurrency/index.html",
+"urlToImage": "https://static.tweaktown.com/news/8/6/86429_01_an-impressive-elon-musk-deepfake-has-come-and-its-scamming-crypto-ho_full.jpg",
+"publishedAt": "2022-05-25T11:59:02Z",
+"content": "Yet another cryptocurrency scam has surfaced, this time utilizing deep-fakes and Elon Musk's likeness to do the trick.\r\nThe deep faked video shows Elon Musk on the set of a TED talk originally from A… [+1187 chars]"
+},
